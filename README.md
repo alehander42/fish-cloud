@@ -15,3 +15,9 @@ mid $song
 
 # transforms a mid recording to mp3
 ```
+
+```fish
+cut_mp3 $song $begin $end $new_name
+
+# cuts a part of mp3 and pastes it in a new mp3
+```
